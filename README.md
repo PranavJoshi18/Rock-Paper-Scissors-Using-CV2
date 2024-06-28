@@ -1,0 +1,1 @@
+An OpenCV project with MediaPipe to make the game of Rock-Paper-Scissors more interactive and fun rather than using just simple buttons, now the player could use hand gestures and the computer will itself detect the move making it more user friendly.
